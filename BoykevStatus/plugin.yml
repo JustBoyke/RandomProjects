@@ -1,0 +1,9 @@
+name: Boykev-Status
+version: 100
+main: me.boykev.Main
+author: Boykev
+website: https://www.fire-enterprise.nl
+api-version: 1.14
+commands:
+  boykev:
+    description: Default Command
