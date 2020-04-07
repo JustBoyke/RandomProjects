@@ -1,0 +1,8 @@
+name: Lucieplugin
+main: me.pro.hoi.Main
+version: 1.9.4
+author: Luc
+api-version: 1.14
+commands:
+  luc_de_beste:
+    description: Belangerijkste plugin ooit
